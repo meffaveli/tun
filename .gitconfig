@@ -1,0 +1,9 @@
+[user]
+	name = meffaveli
+	email = jeff.s.miller@gmail.com
+[alias]
+	co = checkout
+[core]
+	editor = subl -w
+[push]
+	default = simple
